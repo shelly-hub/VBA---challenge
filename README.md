@@ -63,17 +63,17 @@ To write the code, as following:
 
 	- Data Analytics Bootcamp Lecturer and Tutors
 
-  - Data Analytics Lecturer Slides under Activities 02 VBA Scripting file
+	 - Data Analytics Lecturer Slides under Activities 02 VBA Scripting file
 
   - Links below:
 
-https://www.youtube.com/watch?v=M3OE7Z62oGM&list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5&index=6&ab_channel=WiseOwlTutorials
- 
- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
- 
- https://www.exceldemy.com/vba-format-percentage-2-decimal-places/
- 
-https://www.google.com/search?q=how+to+find+maximum+value+in+vba&oq=how+to+find+maximum+value+in+vba&aqs=chrome..69i57j0i22i30l3j0i390l3.7183j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c8ca667f,vid:TBLlSKkOujA
+	https://www.youtube.com/watch?v=M3OE7Z62oGM&list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5&index=6&ab_channel=WiseOwlTutorials
+
+	 https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+	 https://www.exceldemy.com/vba-format-percentage-2-decimal-places/
+
+	https://www.google.com/search?q=how+to+find+maximum+value+in+vba&oq=how+to+find+maximum+value+in+vba&aqs=chrome..69i57j0i22i30l3j0i390l3.7183j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c8ca667f,vid:TBLlSKkOujA
 	
 	
 
