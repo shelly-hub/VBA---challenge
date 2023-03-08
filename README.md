@@ -75,6 +75,8 @@ To write the code, as following:
 
 	https://www.google.com/search?q=how+to+find+maximum+value+in+vba&oq=how+to+find+maximum+value+in+vba&aqs=chrome..69i57j0i22i30l3j0i390l3.7183j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c8ca667f,vid:TBLlSKkOujA
 	
+	https://www.instructables.com/The-Ultimate-VBS-Tutorial/
+	
 	
 
 
